@@ -1,2 +1,2 @@
-# VK Services - Test App
+# VK Services Test App
  TestApp For VK Edu
